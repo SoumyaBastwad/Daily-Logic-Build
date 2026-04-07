@@ -3,13 +3,15 @@
 # sample input:[1,2,3,4,5]
 arr=[1,2,3,4,5]
 print(arr[::-1])
-#or
+
+#another way
 arr=[1,2,3,4,5]
 rev=[]
 for i in arr:
     rev=[i]+rev
 print(rev)
-#or
+
+#by using appending method
 arr=[1,2,3,4,5]
 rev=[]
 for i in range(len(arr)-1,-1,-1):
