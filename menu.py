@@ -16,12 +16,17 @@ def Division():
     a=int(input("enter a value:"))
     b=int(input("enter b value:"))
     print("Division=",a/b)
+def Power():
+    a=int(input("enter a value:"))
+    b=int(input("enter b value:"))
+    print("Power=",a**b)
 while True:
     print("1.Addition:")
     print("2.Substraction:")
     print("3.Multiplication:")
     print("4.Division:")
-    print("5.exit")
+    print("5.Power:")
+    print("6.exit")
     choice=int(input("enter your choice:"))
     if choice==1:
         addition()
@@ -32,4 +37,6 @@ while True:
     elif choice==4:
         Division()
     elif choice==5:
+        Power()
+     elif choice==6:
         sys.exit()
