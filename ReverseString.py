@@ -1,4 +1,4 @@
-# reversing the given string by using for loop
+#by taking the input from the user as string and that string revesing
 string=input("Enter a string:")
 rev=''
 for i in string:
