@@ -1,3 +1,3 @@
 import qrcode as qr
-img= qr.make("https://github.com/SoumyaBastwad")
-img.save("myGitHubAccount.png")
+img= qr.make("https://www.youtube.com/")
+img.save("youtube.png")
