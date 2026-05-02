@@ -1,4 +1,5 @@
 # cheaking whether the given number is palindrome or not by using while loop
+
 num = int(input("Enter a number: "))
 
 original = num
