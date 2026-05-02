@@ -1,4 +1,5 @@
 # Finding index of a specific character 
+
 name="soumyabastwad"
 i=0
 for x in name:
