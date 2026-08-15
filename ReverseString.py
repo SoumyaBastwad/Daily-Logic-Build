@@ -6,3 +6,8 @@ for i in string:
 print(rev)
 
 # reversimg string by using slicing metod and creating function for that
+string=input("Enter a string:")
+def RrversingString(string):
+   print(string[::-1])
+
+RrversingString(string)
