@@ -13,4 +13,3 @@ for i in range(1, len(numbers)):
 print("Maximum number:", maximum)
 print("Minimum number:", minimum)
 
-
