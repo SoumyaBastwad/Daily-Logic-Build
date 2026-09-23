@@ -10,6 +10,4 @@ for i in range(1, len(numbers)):
     if numbers[i] < minimum:
         minimum = numbers[i]
 
-print("Maximum number:", maximum)
-print("Minimum number:", minimum)
 
