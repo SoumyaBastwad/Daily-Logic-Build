@@ -7,7 +7,6 @@ for i in range(1, len(numbers)):
     if numbers[i] > maximum:
         maximum = numbers[i]
 
-    if numbers[i] < minimum:
-        minimum = numbers[i]
+   
 
 
