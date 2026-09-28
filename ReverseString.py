@@ -1,9 +1,1 @@
-#by taking the input from the user as string and that string revesing
-string=input("Enter a string:")
-rev=''
-for i in string:
-    rev=i+rev
-print(rev)
-
-
 
