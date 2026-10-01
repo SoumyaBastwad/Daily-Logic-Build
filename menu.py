@@ -20,11 +20,4 @@ def Division():
 def Power():
     a=int(input("enter a value:"))
     b=int(input("enter b value:"))
-    print("Power=",a**b)
-while True:
-    print("1.Addition:")
-    print("2.Substraction:")
-    print("3.Multiplication:")
-    print("4.Division:")
-    print("5.Power:")
-    print("6.
+    print("Power=",a
