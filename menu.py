@@ -8,8 +8,4 @@ def addition():
 def substraction():
     a=int(input("enter a value:"))
     b=int(input("enter b value:"))
-    print("Substraction=",a-b)
-def multiplication():
-    a=int(input("enter a value:"))
-    b=int(input("enter b value:"))
-    print("Multiplication=",a*b
+    print("Substraction=",a-b
